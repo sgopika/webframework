@@ -1,0 +1,194 @@
+@font-face {
+
+  font-family:"Meera";
+
+  src: url("embedfonts/Meera.eot");
+  src: url("embedfonts/Meera.woff2") format("woff2"),
+       url("embedfonts/Meera.woff") format("woff"),
+       url("embedfonts/Meera.ttf") format("truetype"),
+       url("embedfonts/Meera.svg#Meera") format("svg"),
+       url("embedfonts/Meera.eot?#iefix") format("embedded-opentype");
+}
+@font-face {
+
+  font-family:"RobotoR";
+
+  src: url("embedfonts/Roboto-Regular.ttf");
+}
+
+
+.fwt4{
+  font-weight: 400;
+}
+.fwt5{
+  font-weight: 500;
+}
+.fwt6{
+  font-weight: 600;
+}
+.mal_xxxxxl{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 2.5em;
+}
+.mal_xxxxl{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 2.0em;
+}
+.mal_xxxl{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.75em;
+}
+.mal_xxxli{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.6em;
+}
+.mal_xxl{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.5em;
+}
+.mal_xxli{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.45em;
+}
+.mal_xl{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.4em;
+}
+.mal_xli{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.35em;
+}
+.mal_lg{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.3em;
+}
+.mal_l{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.25em;
+}
+.mal_m{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.2em;
+}
+.mal_sm{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.15em;
+}
+.mal_xsm{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.1em;
+}
+.mal_xs{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.05em;
+}
+.mal_xxs{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 1.0em;
+}
+.mal_xxxs{
+  font-family:"Meera" !important;
+  font-style: normal;
+  font-size: 0.95em;
+}
+
+.eng_xxxxxl{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 2.5em;
+}
+.eng_xxxxl{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 2.0em;
+}
+.eng_xxxl{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.75em;
+}
+.eng_xxxli{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.6em;
+}
+.eng_xxl{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.5em;
+}
+.eng_xxli{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.45em;
+}
+.eng_xl{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.4em;
+}
+.eng_xli{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.35em;
+}
+.eng_lg{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.3em;
+}
+.eng_l{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.25em;
+}
+.eng_m{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.2em;
+}
+.eng_sm{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.15em;
+}
+.eng_xsm{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.1em;
+}
+.eng_xs{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.05em;
+}
+.eng_xxs{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 1.0em;
+}
+.eng_xxxs{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 0.95em;
+}
+.eng_xxxxs{
+  font-family:"RobotoR" !important;
+  font-style: normal;
+  font-size: 0.75em;
+}
